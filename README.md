@@ -10,6 +10,7 @@
 $ pip install requests
 $ pip install BeautifulSoup
 $ pip install pyTelegramBotAPI
+$ pip install lxml
 ```
 
 ### Зачем вы разработали этот проект?
